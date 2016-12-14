@@ -8,10 +8,10 @@ Data Science From Scratch using Python
 ### Ch3. Visualizing Data
 Build Familiarity with matplotlib library<br>
 Covers:<br>
-..* Bar charts<br>
-..* Line charts<br>
-..* Scatterplots<br>
-..* Line charts<br>
+ * Bar charts<br>
+ * Line charts<br>
+ * Scatterplots<br>
+ * Line charts<br>
 
 ### Ch4. Linear Algebra
 
